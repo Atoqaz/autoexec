@@ -1,0 +1,340 @@
+"lang"
+{
+"Language" "English"
+"Tokens"
+{ 
+// ---------------------------------------------------------------------------------------------
+	//
+	// Main Menu
+	//
+	
+	// PLAY OPTIONS
+	
+		"play_setting_workshop"				"Workshop"
+		"play_setting_community"			"Community Servers"
+	
+	// LOBBY MENU ITEMS
+	
+		"SFUI_PlayerDetails_Profile"											"Steam Profile"
+		"SFUI_PlayerDetails_Trade"												"Steam Message"
+			
+	
+	// INVENTORY CUSTOMIZATION
+	
+		"inv_context_openloadout"				"Loadout Slot"
+		"inv_context_tradeup_add"				"Trade Up"
+	
+		"SFUI_InvTooltip_Wear"					" "
+		"Attrib_KillEater"						"This item features StatTrak™ technology."
+		
+		//"SFUI_InvPanel_Loadout_Title"			"Loadout\n- "
+		//"SFUI_InvPanel_Inventory_Title"		"Inventory\n- "
+		//"SFUI_InvPanel_Market_Title"			"Community Market\n- "
+		
+	// INVENTORY TOOLTIP
+		
+		
+		"CSGO_Item_Desc_HKP2000"""
+		"CSGO_Item_Desc_AK47"""
+		"CSGO_Item_Desc_Glock18"""
+		"CSGO_Item_Desc_DesertEagle"""
+		"CSGO_Item_Desc_Elites"""
+		"CSGO_Item_Desc_FiveSeven"""
+		"CSGO_Item_Desc_P250"""
+		"CSGO_Item_Desc_CZ75a"""
+		"CSGO_Item_Desc_Tec9"""
+		"CSGO_Item_Desc_Taser"""
+		"CSGO_Item_Desc_Bizon"""
+		"CSGO_Item_Desc_Mac10"""
+		"CSGO_Item_Desc_MP7"""
+		"CSGO_Item_Desc_MP9"""
+		"CSGO_Item_Desc_P90"""
+		"CSGO_Item_Desc_UMP45"""
+		"CSGO_Item_Desc_Aug"""
+		"CSGO_Item_Desc_GalilAR"""
+		"CSGO_Item_Desc_Famas"""
+		"CSGO_Item_Desc_M4A4"""
+		"CSGO_Item_Desc_SG553"""
+		"CSGO_Item_Desc_AWP"""
+		"CSGO_Item_Desc_G3SG1"""
+		"CSGO_Item_Desc_SCAR20"""
+		"CSGO_Item_Desc_SSG08"""
+		"CSGO_Item_Desc_Mag7"""
+		"CSGO_Item_Desc_Nova"""
+		"CSGO_Item_Desc_SawedOff"""
+		"CSGO_Item_Desc_XM1014"""
+		"CSGO_Item_Desc_M249"""
+		"CSGO_Item_Desc_Negev"""
+		"CSGO_Item_Desc_C4"""
+		"CSGO_Item_Desc_HE_Grenade"""
+		"CSGO_Item_Desc_Flashbang"""
+		"CSGO_Item_Desc_Smoke_Grenade"""
+		"CSGO_Item_Desc_Decoy_Grenade"""
+		"CSGO_Item_Desc_Molotov"""
+		"CSGO_Item_Desc_Incindiary_Grenade"""
+		"CSGO_Item_desc_Knife"""
+		"CSGO_Item_desc_Knife_T"""
+		"CSGO_Item_desc_m4a1_silencer"""
+		"CSGO_Item_Desc_usp_silencer"""
+		"CSGO_Item_Desc_Revolver"""
+		"CSGO_Item_Desc_Knife_Bayonet"""
+		"CSGO_Item_Desc_Knife_Flip"""
+		"CSGO_Item_Desc_Knife_Gut"""
+		"CSGO_Item_Desc_KnifeM9"""
+		"CSGO_Item_Desc_Knife_Karam"""
+		"CSGO_Item_Desc_KnifeTactical"""
+		"CSGO_Item_Desc_Knife_Butterfly"""
+		"CSGO_Item_Desc_Knife_Falchion_Advanced"""
+		"CSGO_Item_Desc_knife_push"""
+		"CSGO_Item_Desc_knife_survival_bowie"""
+	
+	// INVENTORY EXTERIOR
+		
+		"SFUI_InvTooltip_Wear_Amount_0"		"Factory New (5)"
+		"SFUI_InvTooltip_Wear_Amount_1"		"Minimal Wear (4)"
+		"SFUI_InvTooltip_Wear_Amount_2"		"Field-Tested (3)"
+		"SFUI_InvTooltip_Wear_Amount_3"		"Well-Worn (2)"
+		"SFUI_InvTooltip_Wear_Amount_4"		"Battle-Scarred (1)"
+	
+	// NOW PLAYING INFORMATION (IN-GAME)
+	
+	// 	"SFUI_NowPlaying_T"					"NEW ROUND"
+	// 	"SFUI_NowPlaying_CT"				"NEW ROUND"
+		"SFUI_Notice_Hint_Bot_Takeover"		"PLAYING AS BOT %s1."
+	
+	// BUY MENU CHANGES
+			
+		"SFUI_WPNHUD_HE_Grenade"						"Grenade"
+		"SFUI_WPNHUD_Flashbang"							"Flashbang"
+		"SFUI_WPNHUD_IncGrenade"						"Incendiary"
+		"SFUI_WPNHUD_Decoy"								"Decoy"
+		"SFUI_WPNHUD_Smoke_Grenade"						"Smoke"
+
+		"SFUI_BuyMenu_OutOfTime" 						"Buy period has expired.\n(%s1 seconds)"
+		"Cstrike_TitlesTXT_Cant_buy"					"Buy period has expired.\n(%s1 seconds)"
+	
+	// SCOREBOARD ?
+				
+		"SFUI_Scoreboard_Players"						"Alive: %s1"
+		"SFUI_Scoreboard_Player"						"Alive: %s1"
+		"Scoreboard_lossmoneybonus_tooltip"    	 		"{s:round_loss_income_team} loss: <b>${d:round_loss_income_amount}</b>"
+
+	// SWITCH FIREMODE
+		
+		"Cstrike_TitlesTXT_Switch_To_BurstFire"			"Burst fire"
+		"Cstrike_TitlesTXT_Switch_To_FullAuto"			"Automatic"
+		"Cstrike_TitlesTXT_Switch_To_SemiAuto"			"Semi"
+		
+	// C4 - PLANTING AND DEFUSING
+		
+		"Cstrike_TitlesTXT_C4_Plant_At_Bomb_Spot"		"Can't plant here."
+		"SFUI_Notice_C4_Plant_At_Bomb_Spot"				"Can't plant here."
+		
+		"SFUIHUD_InfoPanel_DefuseText"					"Defusing"
+		"SFUIHUD_InfoPanel_DefuseText_NoKit"			"Defusing without a kit"
+		
+		"Cstrike_TitlesTXT_Bomb_Defused"				"Bomb defused"
+		"Cstrike_TitlesTXT_Bomb_Planted"				"Bomb planted - %s1 seconds left"
+		
+		"SFUI_Notice_Got_Bomb"							"You got the bomb."
+		
+	//	WARMUP AND ROUND INFO
+		
+		"SFUI_Notice_Match_Will_Start_Chat"				"Warmup"
+		"SFUI_Notice_Alert_Match_Point"					"MATCH POINT"
+		"SFUI_Notice_Alert_Final_Round"					"FINAL ROUND"
+		"SFUI_Notice_Alert_Last_Round_Half"				"LAST ROUND OF FIRST HALF"
+		"SFUI_Notice_Alert_Warmup_Period"				"%s1"
+		"SFUI_Notice_Alert_Warmup_Period_Ending"		"<font color='#F08080'>%s1</font>"
+		"SFUI_Notice_Alert_Waiting_For_Players"			"WAITING FOR PLAYERS %s1"
+		"SFUI_Notice_Alert_Match_Starting_In"			"<font color='#C6E075'>MATCH STARTING IN %s1...</font>"
+		"SFUI_Notice_Alert_Match_Starting"				"<font color='#C6E075'>MATCH STARTING</font>"
+		"SFUI_Notice_Alert_Match_Restarting_In"			"<font color='#C6E075'>MATCH RESTARTING IN %s1...</font>"
+		"SFUI_Notice_Alert_Match_Restarting"			"<font color='#C6E075'>MATCH RESTARTING</font>"
+		"SFUI_Notice_Alert_Replaying"					"<font color='#E0C675'>DELAYED REPLAY %s1</font>"
+		"SFUI_Notice_Alert_Match_Start"					"MATCH START"
+		"SFUI_Notice_Alert_Timeout"						"%s1 Timeout %s2"		
+		"SFUI_Notice_Alert_Freeze_Pause"				"MATCH PAUSED"
+		
+	//	DROP ITEM
+		
+		"SFUI_Notice_YouDroppedWeapon"					"Dropped %s1"
+		"SFUI_Notice_CannotDropWeapon"					"Can't drop %s1"
+		
+	//	MAP CALLOUTS
+
+		"BombsiteA"			"A"
+		"BombsiteB"			"B"
+		"BombsiteC"			"C"
+		
+		"CTSpawn"			"CT Spawn"
+		"TSpawn"			"T Spawn"
+		
+	//
+	// IN-GAME RADIO & MESSAGES
+	//
+		
+	// CHAT
+	
+		"Cstrike_game_join_spectators"					"+ %s1\n"
+		"Cstrike_game_join_terrorist"					"+ 	%s1\n"
+		"Cstrike_game_join_ct"							"+ %s1\n"
+
+		"Cstrike_TitlesTXT_Game_teammate_attack" 		" %s1 attacked a teammate."
+		
+		"Cstrike_TitlesTXT_Defusing_Bomb"				" * Defusing *"
+		"Cstrike_TitlesTXT_Planting_Bomb"				" * Planting *"
+		"Cstrike_TitlesTXT_Roger_that"					"Yes."
+		"Cstrike_TitlesTXT_Affirmative"					"Yes."
+		"Cstrike_TitlesTXT_Negative"					"No."
+
+		"Cstrike_TitlesTXT_Hint_try_not_to_injure_teammates"				"Friendly fire"
+		
+	// CASH AWARD MESSAGES
+	
+		"Player_Cash_Award_ExplainSuicide_YouGotCash"			"(+$%s2 for the suicide of %s1)"
+		"Player_Cash_Award_ExplainSuicide_TeammateGotCash"		"%s3 was awarded +$%s2 for the suicide of %s1."
+		"Player_Cash_Award_ExplainSuicide_EnemyGotCash"			"An enemy player was awarded for the suicide of %s1."
+		"Player_Cash_Award_ExplainSuicide_Spectators"			" %s3 was awarded +$%s2 for the suicide of %s1."
+		
+		"Player_Cash_Award_Kill_Teammate"				" -$%s1 • Teamkill"
+		"Player_Cash_Award_Killed_Enemy_Generic" 		" +$%s1 • Kill"
+		"Player_Cash_Award_Killed_Enemy"				" +$%s1 • %s2"
+		"Player_Cash_Award_Bomb_Planted"				" +$%s1 • C4 planted"
+		"Player_Cash_Award_Bomb_Defused"				" +$%s1 • C4 defused"
+		"Player_Cash_Award_Rescued_Hostage"				" +$%s1 • Hostage rescued"
+		"Player_Cash_Award_Interact_Hostage"			" +$%s1 • Hostage reached"
+		"Player_Cash_Award_Respawn"						" +$%s1 • Respawn"
+		"Player_Cash_Award_Get_Killed"					" +$%s1 • Award for being eliminated"
+		"Player_Cash_Award_Damage_Hostage"				" -$%s1 • Hostage wounded"
+		"Player_Cash_Award_Kill_Hostage"				" -$%s1 • Hostage killed"
+		"Player_Point_Award_Killed_Enemy"				" %s1 point • %s2"
+		"Player_Point_Award_Killed_Enemy_Plural"		" %s1 points • %s2"
+		"Player_Point_Award_Assist_Enemy"				" %s1 point • assist in killing %s2"
+		"Player_Point_Award_Assist_Enemy_Plural"		" %s1 points • assist in killing %s2"
+
+		"Team_Cash_Award_T_Win_Bomb"					" +$%s1 • C4 detonated"
+		"Team_Cash_Award_Elim_Hostage"					" +$%s1 • Team elimination"
+		"Team_Cash_Award_Elim_Bomb"						" +$%s1 • Team elimination"
+		"Team_Cash_Award_Win_Time"						" +$%s1 • Time is up"
+		"Team_Cash_Award_Win_Defuse_Bomb"				" +$%s1 • C4 defused"
+		"Team_Cash_Award_Win_Hostages_Rescue"			" +$%s1 • Hostages rescued"
+		"Team_Cash_Award_Win_Hostage_Rescue"			" +$%s1 • Hostage rescued"
+		"Team_Cash_Award_Loser_Bonus"					" +$%s1 • Round lost"
+		"Team_Cash_Award_Loser_Zero"					" +$%s1 • Income for dead players on losing team."
+		"Team_Cash_Award_Rescued_Hostage"				" +$%s1 • Hostage rescued"
+		"Team_Cash_Award_Hostage_Interaction"			" +$%s1 • Hostage reached"
+		"Team_Cash_Award_Hostage_Alive"					" +$%s1 • Hostages survived"
+		"Team_Cash_Award_Planted_Bomb_But_Defused"		" +$%s1 • C4 planted"
+		"Team_Cash_Award_no_income"						" +$0 • Out of time"
+		"Team_Cash_Award_no_income_suicide"				" +$0 • Suicide"
+		"Team_Cash_Award_Generic"						" +$%s1 • Team award"
+		"Team_Cash_Award_Custom"						" +$%s1 • %s2"
+		
+		"Game_radio"									"%s1 : %s2"					// Casual
+		"Game_radio_location"							"%s1 %s2: %s3"		// Competetive
+		"Cstrike_Chat_CT_Loc"							"%s1 (CT)  %s3: %s2"
+		"Cstrike_Chat_CT"								"%s1 (CT): %s2"
+		"Cstrike_Chat_T_Loc"							"%s1 	(T) %s3: %s2"
+		"Cstrike_Chat_T"								"%s1 	(T): %s2"
+		"Cstrike_Chat_CT_Dead"							"%s1 (CT): %s2"
+		"Cstrike_Chat_T_Dead"							"%s1 	(T): %s2"
+		"Cstrike_Chat_Spec"								"%s1 (Spec): %s2"
+		"Cstrike_Chat_All"								"%s1: %s2"
+		"Cstrike_Chat_AllDead"							"%s1 (Dead): %s2"
+		"Cstrike_Chat_AllSpec"							"%s1: %s2"
+	
+	// GRENADE MESSAGES
+	
+		"SFUI_TitlesTXT_Fire_in_the_hole" 				"Grenade"
+		"SFUI_TitlesTXT_Molotov_in_the_hole" 			"Molotov"
+		"SFUI_TitlesTXT_Incendiary_in_the_hole" 		"Incendiary"
+		"SFUI_TitlesTXT_Flashbang_in_the_hole" 			"Flashbang"
+		"SFUI_TitlesTXT_Smoke_in_the_hole" 				"Smoke"
+		"SFUI_TitlesTXT_Decoy_in_the_hole" 				"Decoy"
+		
+		"csgo_thousands_separator"						"." // Note: This only supports , and .
+		
+		
+	// // Vote screen
+		
+		"SFUI_Vote_None"								""
+		"SFUI_Vote_KickPlayer"							"Kick Player"
+		"SFUI_Vote_TeamSwitch"							"Swap Teams"
+		"SFUI_Vote_ScrambleTeams"						"Scramble Teams"
+		"SFUI_Vote_RestartMatch"						"Restart Match"
+		"SFUI_Vote_ChangeMap"							"Change Map"
+		"SFUI_Vote_Change_MultiSkirmish"				"Change War Game"
+		"SFUI_Vote_NextMap"								"Choose Next Map"
+		"SFUI_Vote_NextMap_MultiSkirmish"				"Choose Next War Game"
+		"SFUI_Vote_pause_match"							"Pause the match during freezetime?"
+		"SFUI_Vote_unpause_match"						"Unpause the match and resume freezetime?"
+		"SFUI_Vote_loadbackup"							"Load round backup\n%s1?"
+		"SFUI_Vote_ready_for_match"						"Begin warmup countdown to match start?"
+		"SFUI_Vote_not_ready_for_match"					"Abort match start and return to infinite warmup?"
+		"SFUI_Vote_StartTimeoutTournament"				"Tactical Timeout"
+		"SFUI_Vote_StartTimeout"						"Tactical Timeout"
+		
+
+	// TRUST FACTOR WARNING
+		
+		"SFUI_QMM_ERROR_X_AccountWarningTrustMinor"	"Beware: %s1 has a lower Trust Factor than yours."
+		"SFUI_QMM_ERROR_X_AccountWarningTrustMajor"	"Warning: %s1 has a much lower Trust Factor than yours."
+
+	// DANGER ZONE TABLET
+		
+		"TabletBuyMenu"				"[{v:csgo_bind:bind_buymenu}] Map"
+		"TabletHintBuy"				"   [{v:csgo_bind:bind_showscores}] Close"
+		"TabletHintMap"				" "
+		"TabletHintClose"			" "
+		"TabletNotification_HighlightedSectors"		"[{v:csgo_bind:bind_buymenu}] Buy Menu"
+		"TabletNotification_NoDronesToControl"		"No drones available."
+		"TabletNotification_IncomingDelivery"		"Incoming Delivery"
+		"TabletNotification_ExplorationPayment"		"Exploration +${d:exploreprice}"
+		"TabletNotification_ExplorationPayment_Bonus" "Exploration +${d:exploreprice} & +${d:explorebonus}"
+		"TabletNotification_BombWaveMoney"			"Survival +${d:surviveprice}"
+		"TabletNotification_BombWaveMoney_Bonus"	"Survival +${d:surviveprice} & +${d:survivebonus}"
+		
+		// DANGER ZONE SURVIVAL RESPAWN
+		
+		"Survival_TeammateRespawned"				"Teammate respawned!"
+		"Survival_RespawnEndWarning"				"Respawn ends in {t:d:timeleft}"
+		"Survival_RespawningDisabled"				"No more respawns!"
+		"Survival_Respawn_Cooldown_Too_Long"		"No more respawns!"
+
+
+	// LOOKING TO PLAY
+		
+		"advertising_for_hire_competitive"					"<img src='file://{images}/icons/ui/competitive.svg' class=''/>Matchmaking"
+		"advertising_for_hire_scrimcomp2v2"					"<img src='file://{images}/icons/ui/scrimcomp2v2.svg' class=''/>Wingman"
+		"advertising_for_hire_survival"						"<img src='file://{images}/icons/ui/survival.svg' class=''/>Danger Zone"
+		
+	// TOOLTIPS
+
+	"tooltip_navbar_vote"			"Call vote"
+	"tooltip_steamprofile"			"Steam profile"
+	"tooltip_editprofile"			"Edit Steam profile"
+	
+	"GameUI_QuitConfirmationText"   "Quit to main menu?"
+	"UI_ConfirmExitMessage"			"Quit game?"
+
+// ---------------------------------------------------------------------------------------------
+}
+
+// - white
+// - red
+// - Light Violet [OLD: Team color (may cause player's color dot before symbol)]
+// - green
+// - light green
+// - green(money awards)
+// - light red
+// - Aluminum [OLD: CT color]
+//	 - Light yellow [OLD: T color]
+// - light blue
+// - blue
+// -  violet
+// - light red 2
+
+
+}
+
