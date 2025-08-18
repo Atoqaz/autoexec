@@ -2,7 +2,7 @@
 SetLocal EnableExtensions
 setlocal EnableDelayedExpansion
 
-set cfg_path="C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\"
+set cfg_path="C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\"
 set "files=autoexec.cfg BotPractice.cfg overwatch.cfg"
 
 set folders="functions"
